@@ -1,0 +1,59 @@
+Columns 1 through 7
+
+           0           5          10          15          19          24          29
+
+  Columns 8 through 14
+
+          33          38          42          46          50          53          57
+
+  Columns 15 through 21
+
+          60          63          66          68          71          73          74
+
+  Columns 22 through 28
+
+          76          77          78          78          78          78          78
+
+  Columns 29 through 35
+
+          77          76          74          73          71          68          66
+
+  Columns 36 through 42
+
+          63          60          57          53          50          46          42
+
+  Columns 43 through 49
+
+          38          33          29          24          19          15          10
+
+  Columns 50 through 56
+
+           5           0          -5         -10         -15         -19         -24
+
+  Columns 57 through 63
+
+         -29         -33         -38         -42         -46         -50         -53
+
+  Columns 64 through 70
+
+         -57         -60         -63         -66         -68         -71         -73
+
+  Columns 71 through 77
+
+         -74         -76         -77         -78         -78         -78         -78
+
+  Columns 78 through 84
+
+         -78         -77         -76         -74         -73         -71         -68
+
+  Columns 85 through 91
+
+         -66         -63         -60         -57         -53         -50         -46
+
+  Columns 92 through 98
+
+         -42         -38         -33         -29         -24         -19         -15
+
+  Columns 99 through 101
+
+         -10          -5           0
