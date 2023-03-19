@@ -7,3 +7,8 @@
 # Commands for generating Sine Wave Samples:
  - t = 0 : pi/50 : 2*pi % for 100 samples, for 20 samples take pi/20.insteat of pi/50.
  - int32(sin(t)*10000/128) % 128 for 8-bit output, for 6-bit output take 512 instead of 128.  
+
+# Tools Used: 
+- Cadence NC Launch 
+- Xilinx Vivado
+- Matlab
